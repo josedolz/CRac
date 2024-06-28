@@ -36,10 +36,10 @@ python setup.py develop
 
 ## Citation
 ```
-@article{murugesan2024class,
+@inproceedings{murugesan2024class,
   title={Class and Region-Adaptive Constraints for Network Calibration},
   author={Murugesan, Balamurali and Silva-Rodriguez, Julio and Ayed, Ismail Ben and Dolz, Jose},
-  journal={arXiv preprint arXiv:2403.12364},
+  booktitle={MICCAI},
   year={2024}
 }
 ```
